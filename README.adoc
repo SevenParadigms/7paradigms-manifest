@@ -1,0 +1,17 @@
+# Manifest
+
+Association of open source developers supporting 7 paradigms:
+
+1) each part of the infrastructure around the technology that accelerates development many times - also individually accelerates development several times
+
+2) if the technology allows not to expand the infrastructure due to specialized servers with reasonable damage to quality, the infrastructure does not expand
+
+3) the security subsystem must functionally cover the entire infrastructure and take into account every detail and nuance of the business logic to the detriment of universality
+
+4) inter-cluster data replication and supporting for internal data clustering should be at the application level for maximum performance, stability and control
+
+5) ... still thought through
+
+6) ... still thought through
+
+7) ... still thought through
