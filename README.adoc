@@ -1,6 +1,6 @@
 # Manifest
 
-Association of open source developers supporting 7 paradigms:
+Association of open source developers who supporting 7 paradigms:
 
 1) each part of the infrastructure around the technology that accelerates development many times - also individually accelerates development several times
 
@@ -10,7 +10,7 @@ Association of open source developers supporting 7 paradigms:
 
 4) inter-cluster data replication and supporting for internal data clustering should be at the application level for maximum performance, stability and control
 
-5) ... still thought through
+5) data is managed by those who form it and in most cases it is a frontend and database, so the backend does not know anything about business logic
 
 6) ... still thought through
 
